@@ -25,7 +25,7 @@ persona['nombre'] = 'Kevin'
 #agrega un nuevo elemento al diccionario persona
 persona['color_ojos'] = 'cafe'
 
-print(frutas[2])
+print(frutas[2])#imprime 'papaya'
 
 if numero1 > 45:
     print("Numero mayor")
